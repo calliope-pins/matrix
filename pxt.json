@@ -8,7 +8,13 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "matrix.ts"
+        "matrix.ts",
+        "image.ts",
+        "array.ts",
+        "geometrie.ts",
+        "text.ts",
+        "advanced.ts",
+        "eeprom.ts"
     ],
     "testFiles": [
         "test.ts"
